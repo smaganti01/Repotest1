@@ -1,4 +1,4 @@
-<project name="Project" basedir=".">
+<project name="Project" basedir="C:\Program Files (x86)\Jenkins\workspace\Repotest1">
 <property file="${basedir}/build.properties"/>
 <property name="dist" value="dist"/>
 <property name="build" value="build"/>
